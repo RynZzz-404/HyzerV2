@@ -1,8 +1,8 @@
 <div align="center">
-<img src="https://telegra.ph/file/fadf93e02010bf5a891e6.jpg" alt="Hyzer Md-V3" width="300" />
+<img src="https://telegra.ph/file/1cf3b23768e957fe52747.png" alt="Hyzer Md-V3" width="300" />
 
 </p>
-<h1 align="center">ArullOfc</h1>
+<h1 align="center">CyberYann</h1>
 
 >
 >
@@ -15,7 +15,7 @@
   <a href="https://api-hyzerr.herokuapp.com"><img title="Rest Api" src="https://img.shields.io/badge/Rest Api-Hyzerr.svg?style=for-the-badge&logo=twitter" /></a>
   <h4 align="center">
   <a
-  <a href="https://wa.me/6285822347348">Chat Saya Jika Ingin Menanyakan Sesuatu </a>
+  <a href="https://wa.me/6282252285143">Chat Saya Jika Ingin Menanyakan Sesuatu </a>
 </h4>
 </p>
 
@@ -52,7 +52,7 @@ WhatsApp Bot Multi Device
 [Ilman](https://github.com/ilmanhdyt) | [Hyzer](https://github.com/Hyzerr) 
  Author | Creator
  
-### ArullOfc Statistics
+###  Statistics
 
 [![Hyzer GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hyzerr&show_icons=true&hide=issues&theme=radical)](https://github-readme-stats.vercel.app)
 [![Hyzer Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Hyzerr&layout=compact&theme=radical)](https://github-readme-stats.vercel.app)
@@ -66,4 +66,4 @@ WhatsApp Bot Multi Device
 ---------
 
 ## Request Fitur To
-[`Creator Here`](https://wa.me/6287892711054?text=Banh+req+fitur) 
+[`Creator Here`](https://wa.me/6282252285143?text=Banh+req+fitur) 
